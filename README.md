@@ -1,0 +1,1 @@
+### This is a simple repository where I keep solved coding challenges which I found online. The solutions are solved using Python3. You are free to suggest new approaches to my solutions as well as add new challenges.
